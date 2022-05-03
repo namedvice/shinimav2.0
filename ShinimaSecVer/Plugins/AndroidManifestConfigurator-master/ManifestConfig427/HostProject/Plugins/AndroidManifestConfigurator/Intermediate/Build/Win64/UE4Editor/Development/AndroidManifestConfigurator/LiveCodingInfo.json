@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AndroidManifestConfigurator.cpp.obj": [
+			"AndroidManifestConfigurator.cpp.obj",
+			"AndroidManifestConfiguratorSettings.cpp.obj"
+		],
+		"Module.AndroidManifestConfigurator.gen.cpp.obj": [
+			"AndroidManifestConfigurator.init.gen.cpp.obj",
+			"AndroidManifestConfiguratorSettings.gen.cpp.obj"
+		]
+	}
+}

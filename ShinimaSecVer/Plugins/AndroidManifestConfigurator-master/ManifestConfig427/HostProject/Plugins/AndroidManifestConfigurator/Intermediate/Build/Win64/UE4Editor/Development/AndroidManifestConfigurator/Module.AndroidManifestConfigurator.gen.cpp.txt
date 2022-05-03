@@ -1,0 +1,7 @@
+D:\shinimav20\ShinimaSecVer\Plugins\AndroidManifestConfigurator-master\Intermediate\Build\Win64\UE4Editor\Development\AndroidManifestConfigurator\Definitions.AndroidManifestConfigurator.h
+D:/shinimav20/ShinimaSecVer/Plugins/AndroidManifestConfigurator-master/Intermediate/Build/Win64/UE4Editor/Inc/AndroidManifestConfigurator/AndroidManifestConfigurator.init.gen.cpp
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/shinimav20/ShinimaSecVer/Plugins/AndroidManifestConfigurator-master/Intermediate/Build/Win64/UE4Editor/Inc/AndroidManifestConfigurator/AndroidManifestConfiguratorSettings.gen.cpp
+D:\shinimav20\ShinimaSecVer\Plugins\AndroidManifestConfigurator-master\Source\AndroidManifestConfigurator/Public/AndroidManifestConfiguratorSettings.h
+D:\shinimav20\ShinimaSecVer\Plugins\AndroidManifestConfigurator-master\Intermediate\Build\Win64\UE4Editor\Inc\AndroidManifestConfigurator\AndroidManifestConfiguratorSettings.generated.h
